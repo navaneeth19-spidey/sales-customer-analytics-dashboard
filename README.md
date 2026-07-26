@@ -19,9 +19,9 @@ This project provides an end-to-end exploratory data analysis (EDA) and business
 ---
 
 ## 🔍 Key Analytical Insights & Findings
-* **Revenue Trends:** Identified peak sales periods and month-over-month growth patterns.
+* **Revenue Trends:** Identified sales pattern among different age groups.
 * **Category Performance:** Evaluated top-performing vs. underperforming product categories.
-* **Customer Segmentation:** Analyzed regional customer distribution and average order values (AOV).
+* **Customer Segmentation:** Analyzed customer distribution in different categories and average order values (AOV).
 
 ---
 
