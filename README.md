@@ -14,7 +14,7 @@ This project provides an end-to-end exploratory data analysis (EDA) and business
 ---
 
 ## 📊 Dashboard Preview
-///[Dashboard Preview](dashboard_preview.png)
+///![Dashboard Preview](dashboard_preview.png)
 
 ---
 
